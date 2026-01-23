@@ -1,0 +1,147 @@
+{
+    "resume_anjali_patel.txt": {
+        "names": [
+            "Matplotlib",
+            "Pandas",
+            "Tableau",
+            "Kaggle",
+            "Email",
+            "PATEL"
+        ],
+        "organizations": [
+            "JavaScript",
+            "INTERNSHIPS\n\nData Analytics Intern",
+            "SQL",
+            "NLP",
+            "CERTIFICATIONS",
+            "Random Forest",
+            "Pune University",
+            "XGBoost",
+            "Gujarat Technological University",
+            "Data Science Club"
+        ],
+        "dates": [
+            "2023",
+            "Dec 2023",
+            "May 2024",
+            "Jan 2024 - Present",
+            "Summer 2023"
+        ],
+        "locations": [
+            "NumPy",
+            "AI"
+        ],
+        "emails": [
+            "anjali.patel2024@email.com"
+        ],
+        "phones": [
+            "+91-9988776655"
+        ],
+        "skills": [
+            "nlp",
+            "scikit-learn",
+            "java",
+            "machine learning",
+            "python",
+            "data science",
+            "power bi",
+            "numpy",
+            "sql",
+            "git",
+            "tableau",
+            "pandas",
+            "mongodb",
+            "javascript"
+        ]
+    },
+    "resume_priya_sharma.txt": {
+        "names": [
+            "Machine Learning",
+            "Pandas",
+            "Java",
+            "Jupyter\n- Soft",
+            "Docker"
+        ],
+        "organizations": [
+            "Data Scientist",
+            "CERTIFICATIONS",
+            "Google Data Analytics Professional Certificate",
+            "Bachelor of Technology",
+            "TensorFlow",
+            "IIT",
+            "GPA",
+            "Python",
+            "Data Analysis"
+        ],
+        "dates": [
+            "June 2021 - Present",
+            "Jan 2020 -",
+            "10+",
+            "2021",
+            "3 years"
+        ],
+        "locations": [
+            "SHARMA",
+            "Flask",
+            "India",
+            "Delhi"
+        ],
+        "emails": [
+            "priya.sharma@email.com"
+        ],
+        "phones": [
+            "+91-9876543210"
+        ],
+        "skills": [
+            "scikit-learn",
+            "docker",
+            "java",
+            "aws",
+            "machine learning",
+            "python",
+            "tensorflow",
+            "sql",
+            "git",
+            "pandas",
+            "flask"
+        ]
+    },
+    "resume_rahul_verma.txt": {
+        "names": [
+            "Jamshedpur\nCompleted"
+        ],
+        "organizations": [
+            "MediaHub Agency",
+            "Marketing Today",
+            "Content Strategy",
+            "Social Media Management",
+            "Maharashtra\n\n",
+            "BrandCo Ltd.",
+            "SEO",
+            "Google Analytics\nTeam Management, Budget Planning, Campaign Optimization",
+            "Digital Marketing",
+            "Mumbai University"
+        ],
+        "dates": [
+            "July 2018 - Feb 2020",
+            "5+ years",
+            "2018",
+            "March 2020 - Present\n- Led",
+            "annual",
+            "2016",
+            "20+"
+        ],
+        "locations": [
+            "Mumbai"
+        ],
+        "emails": [
+            "rahul.verma@gmail.com"
+        ],
+        "phones": [
+            "+91-9123456789"
+        ],
+        "skills": [
+            "git"
+        ]
+    }
+}

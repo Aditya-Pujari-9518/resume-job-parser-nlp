@@ -1,0 +1,65 @@
+{
+    "job_data_scientist.txt": {
+        "job_title": "Data Scientist",
+        "company": "",
+        "location": "India",
+        "required_skills": [
+            "nlp",
+            "scikit-learn",
+            "aws",
+            "machine learning",
+            "python",
+            "tensorflow",
+            "data science",
+            "spark",
+            "power bi",
+            "sql",
+            "analytics",
+            "tableau",
+            "hadoop"
+        ],
+        "experience_required": [],
+        "education_required": [],
+        "organizations_mentioned": [
+            "NLP",
+            "GCP",
+            "TensorFlow",
+            "Computer Science, Statistics",
+            "PyTorch",
+            "TechVentures Pvt",
+            "Data Scientist",
+            "Tableau, Power BI",
+            "Spark, Hadoop",
+            "AI"
+        ]
+    },
+    "job_marketing_manager.txt": {
+        "job_title": "Digital Marketing Manager",
+        "company": "",
+        "location": "Mumbai",
+        "required_skills": [
+            "marketing",
+            "excel",
+            "digital marketing",
+            "sem",
+            "git",
+            "analytics",
+            "seo"
+        ],
+        "experience_required": [
+            "Annual"
+        ],
+        "education_required": [],
+        "organizations_mentioned": [
+            "Marketing, Business",
+            "WordPress",
+            "Maharashtra (Hybrid",
+            "Digital Marketing",
+            "SEO",
+            "Google Analytics",
+            "SEM",
+            "GrowthMax Marketing Agency",
+            "GrowthMax"
+        ]
+    }
+}
