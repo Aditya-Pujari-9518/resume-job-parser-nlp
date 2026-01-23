@@ -1,0 +1,9 @@
+Candidate,Resume File,Job Title,Job File,Match Score (%),Matched Skills,Total Matched Skills
+Matplotlib,resume_anjali_patel.txt,Data Scientist,job_data_scientist.txt,61.54,"nlp, scikit-learn, machine learning, python, data science, power bi, sql, tableau",8
+Machine Learning,resume_priya_sharma.txt,Data Scientist,job_data_scientist.txt,46.15,"scikit-learn, aws, machine learning, python, tensorflow, sql",6
+Matplotlib,resume_anjali_patel.txt,Digital Marketing Manager,job_marketing_manager.txt,14.29,git,1
+Machine Learning,resume_priya_sharma.txt,Digital Marketing Manager,job_marketing_manager.txt,14.29,git,1
+"Jamshedpur
+Completed",resume_rahul_verma.txt,Digital Marketing Manager,job_marketing_manager.txt,14.29,git,1
+"Jamshedpur
+Completed",resume_rahul_verma.txt,Data Scientist,job_data_scientist.txt,0.0,,0
