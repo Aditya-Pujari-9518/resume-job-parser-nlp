@@ -1,0 +1,39 @@
+
+PRIYA SHARMA
+Email: priya.sharma@email.com
+Phone: +91-9876543210
+Location: Bangalore, India
+
+PROFESSIONAL SUMMARY
+Software Engineer with 3 years of experience in Python, Machine Learning, and Data Analysis.
+
+SKILLS
+- Programming: Python, Java, SQL
+- Machine Learning: Scikit-learn, TensorFlow, Pandas
+- Tools: Git, Docker, Jupyter
+- Soft Skills: Team Leadership, Problem Solving
+
+WORK EXPERIENCE
+
+Data Scientist | TechCorp India | June 2021 - Present
+- Built machine learning models for customer segmentation
+- Improved prediction accuracy by 25%
+- Worked with cross-functional teams of 10+ members
+
+Software Engineer Intern | StartupXYZ | Jan 2020 - May 2021
+- Developed REST APIs using Python Flask
+- Automated data pipelines reducing processing time by 40%
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Indian Institute of Technology (IIT) Delhi
+Graduated: 2020
+GPA: 8.5/10
+
+CERTIFICATIONS
+- AWS Certified Developer Associate (2022)
+- Google Data Analytics Professional Certificate (2021)
+
+PROJECTS
+- Built a recommendation system using collaborative filtering
+- Created a sentiment analysis tool for social media data

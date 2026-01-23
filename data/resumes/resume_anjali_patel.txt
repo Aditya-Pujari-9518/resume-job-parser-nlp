@@ -1,0 +1,49 @@
+
+ANJALI PATEL
+Email: anjali.patel2024@email.com
+Phone: +91-9988776655
+LinkedIn: linkedin.com/in/anjalipatel
+
+EDUCATION
+Master of Science in Data Science
+Pune University
+Expected Graduation: May 2024
+CGPA: 9.2/10
+
+Bachelor of Engineering in Information Technology  
+Gujarat Technological University
+Graduated: 2022
+CGPA: 8.8/10
+
+TECHNICAL SKILLS
+- Languages: Python, R, SQL, JavaScript
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, spaCy
+- Tools: Jupyter, Git, Tableau, Power BI
+- Databases: MySQL, MongoDB
+
+ACADEMIC PROJECTS
+
+Resume Parser using NLP | Jan 2024 - Present
+- Building an automated resume parsing system using spaCy and transformers
+- Extracting entities like skills, education, experience from resumes
+- Achieved 85% accuracy in entity recognition
+
+Customer Churn Prediction | Sep 2023 - Dec 2023
+- Predicted customer churn using Random Forest and XGBoost
+- Analyzed dataset of 50,000+ customer records
+- Improved model performance to 92% accuracy
+
+INTERNSHIPS
+
+Data Analytics Intern | FinTech Solutions Pvt. Ltd. | Summer 2023
+- Analyzed transaction data to identify fraud patterns
+- Created dashboards using Tableau for executive reporting
+- Reduced false positive alerts by 30%
+
+CERTIFICATIONS
+- Python for Data Science (Coursera, 2023)
+- Machine Learning Specialization (DeepLearning.AI, 2023)
+
+EXTRACURRICULAR
+- Vice President, Data Science Club, Pune University
+- Participated in 3 Kaggle competitions, highest rank: Top 15%

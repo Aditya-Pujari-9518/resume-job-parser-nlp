@@ -1,0 +1,38 @@
+
+JOB TITLE: Data Scientist
+COMPANY: TechVentures Pvt. Ltd.
+LOCATION: Bangalore, India
+JOB TYPE: Full-time
+
+ABOUT THE ROLE:
+We are seeking a talented Data Scientist to join our AI team. You will work on cutting-edge 
+machine learning projects and help drive data-driven decision making across the organization.
+
+REQUIRED QUALIFICATIONS:
+- Bachelor's or Master's degree in Computer Science, Statistics, or related field
+- 2-4 years of experience in data science or machine learning roles
+- Strong programming skills in Python
+- Experience with machine learning libraries: Scikit-learn, TensorFlow, or PyTorch
+- Proficiency in SQL and database management
+- Experience with data visualization tools (Tableau, Power BI, or matplotlib)
+
+PREFERRED SKILLS:
+- Experience with NLP and text analytics
+- Knowledge of big data technologies (Spark, Hadoop)
+- Strong statistical analysis skills
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Published research or contributions to open-source projects
+
+RESPONSIBILITIES:
+- Build and deploy machine learning models for various business use cases
+- Analyze large datasets to extract actionable insights
+- Collaborate with cross-functional teams including engineers and product managers
+- Present findings to stakeholders and leadership team
+- Mentor junior data scientists
+
+WHAT WE OFFER:
+- Competitive salary: ₹15-25 LPA
+- Health insurance and wellness benefits
+- Flexible work hours and remote work options
+- Learning and development budget
+- Opportunity to work on innovative AI projects
