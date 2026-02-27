@@ -5,7 +5,7 @@ An advanced Natural Language Processing system leveraging Named Entity Recogniti
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.7-green.svg)](https://spacy.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ##  Table of Contents
 - [Overview](#overview)
