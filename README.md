@@ -222,15 +222,15 @@ Resume_Parser_Project/
 
 ### **Sample Outputs**
 
-#### Extracted Resume Data (Priya Sharma):
+#### Extracted Resume Data (Aditya Pujari):
 ```json
 {
-  "names": ["Priya Sharma"],
-  "emails": ["priya.sharma@email.com"],
-  "phones": ["+91-9876543210"],
-  "skills": ["python", "machine learning", "sql", "pandas", "tensorflow", "git", "docker"],
+  "names": ["Aditya Pujari"],
+  "emails": ["adityavpujari@gmail.com"],
+  "phones": ["+91-9518585756"],
+  "skills": ["python", "machine learning", "sql", "pandas", "tensorflow", "git", "docker","genAI","AgenticAI"],
   "organizations": ["TechCorp India", "StartupXYZ", "IIT Delhi"],
-  "locations": ["Bangalore", "India"],
+  "locations": ["Pune","Bangalore", "India"],
   "dates": ["June 2021", "2020", "2022"]
 }
 ```
