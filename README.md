@@ -238,9 +238,9 @@ Resume_Parser_Project/
 #### Resume-Job Match Results:
 | Candidate | Job Title | Match Score | Matched Skills |
 |-----------|-----------|-------------|----------------|
-| Priya Sharma | Data Scientist | 75% | python, machine learning, sql, pandas, tensorflow |
+| Aditya Pujari | AI Engineer | 75% | python, machine learning, sql, pandas, tensorflow |
 | Anjali Patel | Data Scientist | 70% | python, machine learning, sql, nlp, pandas |
-| Rahul Verma | Data Scientist | 45% | analytics, sql |
+| Rahul Verma | Data Analyst | 45% | analytics, sql |
 
 ---
 
@@ -256,6 +256,7 @@ All resumes are **synthetic/anonymized** to protect privacy.
 ### **Sample Job Descriptions**
 - **Job 1:** Data Scientist - ML focus, 2-4 YOE required
 - **Job 2:** Digital Marketing Manager - 5+ YOE, team leadership
+- **Job 3:** AI Engineer  - fresher 
 
 ---
 
